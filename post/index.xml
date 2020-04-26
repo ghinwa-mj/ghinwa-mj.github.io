@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | GM</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ghinwa-mj.github.io/post/</link>
+      <atom:link href="https://ghinwa-mj.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Apr 2020 11:03:13 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ghinwa-mj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://ghinwa-mj.github.io/post/</link>
     </image>
     
     <item>
       <title>Five Ways Industry 4.0 Will Affect the Future of Free Zones</title>
-      <link>/post/industry4freezones/</link>
+      <link>https://ghinwa-mj.github.io/post/industry4freezones/</link>
       <pubDate>Mon, 13 Apr 2020 11:03:13 +0200</pubDate>
-      <guid>/post/industry4freezones/</guid>
+      <guid>https://ghinwa-mj.github.io/post/industry4freezones/</guid>
       <description>&lt;small&gt;
 Industry 4.0 (IR 4.0), defined by the trend towards automation and data exchange in manufacturing
 technologies and processes, continuous to revolutionize the way we live, work and do business as well
@@ -89,9 +89,9 @@ are able to adapt and make the changes necessary will be most successful and rea
     
     <item>
       <title>The Challenges &amp; Future of Free Trade Zones</title>
-      <link>/post/freezonechallenges/</link>
+      <link>https://ghinwa-mj.github.io/post/freezonechallenges/</link>
       <pubDate>Wed, 13 Nov 2019 11:42:39 +0200</pubDate>
-      <guid>/post/freezonechallenges/</guid>
+      <guid>https://ghinwa-mj.github.io/post/freezonechallenges/</guid>
       <description></description>
     </item>
     
