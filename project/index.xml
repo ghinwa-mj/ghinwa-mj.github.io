@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | GM</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>ghinwa-mj.github.io/project/</link>
+      <atom:link href="ghinwa-mj.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Apr 2020 14:12:18 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/ghinwa-mj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>ghinwa-mj.github.io/project/</link>
     </image>
     
     <item>
       <title>Return</title>
-      <link>/project/return/</link>
+      <link>ghinwa-mj.github.io/project/return/</link>
       <pubDate>Sat, 25 Apr 2020 14:12:18 +0200</pubDate>
-      <guid>/project/return/</guid>
+      <guid>ghinwa-mj.github.io/project/return/</guid>
       <description>&lt;small&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;
 I avoided the pen and paper for so long &lt;br/&gt;
@@ -53,9 +53,9 @@ Because their poet has come back to be
     
     <item>
       <title>Seven</title>
-      <link>/project/seven/</link>
+      <link>ghinwa-mj.github.io/project/seven/</link>
       <pubDate>Sat, 25 Apr 2020 11:26:23 +0200</pubDate>
-      <guid>/project/seven/</guid>
+      <guid>ghinwa-mj.github.io/project/seven/</guid>
       <description>&lt;p&gt;&lt;em&gt;On love &amp;amp; numbers&lt;/em&gt;&lt;/p&gt;
 &lt;small&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt; 
@@ -105,9 +105,9 @@ Has become quite odd &lt;br/&gt;
     
     <item>
       <title>Revolution</title>
-      <link>/project/revolution-female/</link>
+      <link>ghinwa-mj.github.io/project/revolution-female/</link>
       <pubDate>Mon, 20 Apr 2020 14:06:44 +0200</pubDate>
-      <guid>/project/revolution-female/</guid>
+      <guid>ghinwa-mj.github.io/project/revolution-female/</guid>
       <description>&lt;p&gt;&lt;em&gt;On Women &amp;amp; Revolutions&lt;/em&gt;&lt;/p&gt;
 &lt;small&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt; 
@@ -143,9 +143,9 @@ That, my determination can assure &lt;br/&gt;
     
     <item>
       <title>Mother</title>
-      <link>/project/mother/</link>
+      <link>ghinwa-mj.github.io/project/mother/</link>
       <pubDate>Fri, 10 Apr 2020 13:58:25 +0200</pubDate>
-      <guid>/project/mother/</guid>
+      <guid>ghinwa-mj.github.io/project/mother/</guid>
       <description>&lt;p&gt;&lt;em&gt;On Heroes&lt;/em&gt;&lt;/p&gt;
 &lt;small&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt; 
